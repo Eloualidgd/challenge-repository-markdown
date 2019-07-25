@@ -33,5 +33,5 @@
  
  
 ![<< Previous](https://github.com/KevinDom-dev/Challenge-Markdown/blob/master/Kevin%20D%20Markdown.md)
-|![Eloualid Ghoula](https://github.com/Eloualidgd/challenge-repository-markdown/blob/master/walidmarkdown.md)
+|![Eloualid Ghoula](#)
 |![Next >>](https://github.com/Jeroen-Jozef/challenge-repository-Jeroen-Hendrickx/blob/master/README.md)
