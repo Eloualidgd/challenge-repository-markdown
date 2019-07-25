@@ -1,6 +1,6 @@
 # Eloualid
 
- *dream and achieve*
+ *Dream and achieve*
  
 ![fotowalid.jpg](https://github.com/Eloualidgd/challenge-repository-markdown/blob/master/fotowalid.jpg)
 
