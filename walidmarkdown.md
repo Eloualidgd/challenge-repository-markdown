@@ -1,4 +1,5 @@
 # Eloualid
+
 *dream and achieve*
 ![fotowalid.jpg](https://github.com/Eloualidgd/challenge-repository-markdown/blob/master/fotowalid.jpg)
 
@@ -7,7 +8,7 @@
 
 | Birthday      | Favorite Color     | Pinneapple on pizza     | Gender      |Favorite food     |
 | :------------- | :----------: | -----------: | :------------- | :----------: |
-|  14/05        |   Blauw            | [x] | M | Spaghetti |
+|  14/05        |   Blauw            | :heavy_check_mark: | M | Spaghetti |
 
 
 ## Hobbies
