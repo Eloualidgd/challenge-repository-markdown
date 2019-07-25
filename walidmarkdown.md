@@ -27,5 +27,5 @@
 
 ### TL;DR
  Hou u kinderen in het oog als je naar de winkel gaat
-
-[<< previous] (https://github.com/KevinDom-dev/Challenge-Markdown/blob/master/Kevin%20D%20Markdown.md) || Eloualid Ghoulla || [next >>] (https://github.com/Jeroen-Jozef/challenge-repository-Jeroen-Hendrickx/blob/master/README.md)
+![Previous](https://github.com/KevinDom-dev/Challenge-Markdown/blob/master/Kevin%20D%20Markdown.md)
+Eloualid Ghoulla ![Eloualid Ghoula](https://github.com/Eloualidgd/challenge-repository-markdown/blob/master/walidmarkdown.md)|![Next](https://github.com/Jeroen-Jozef/challenge-repository-Jeroen-Hendrickx/blob/master/README.md)
